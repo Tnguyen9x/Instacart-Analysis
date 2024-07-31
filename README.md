@@ -9,7 +9,8 @@ Instacart is an online grocery store that operates through an app. Despite havin
 # Objectives
 Perform an initial data exploration and analysis of selected Instacart datasets to gain insights and propose segmentation strategies based on specific criteria.
 
-Tasks include:
+***Tasks include***:
+
 **Data Preparation**: Clean datasets, including order, product, department, and customer data.
 
 **Data Analysis**: Analyze the data to answer questions from the marketing and sales teams. This includes identifying peak times of the day, the most profitable days of the week, popular product categories, and the most loyal customers.
