@@ -18,7 +18,7 @@ Customer Profiling: Develop customer profiles by combining various variables and
 # Data
 The dataset for this project was supplied by “The Instacart Online Grocery Shopping Dataset 2017.” Accessed from Kaggle
 
-You can find the data dictionary here.
+You can find the dataset [here](https://www.kaggle.com/c/instacart-market-basket-analysis/data).
 
 CareerFoundry Customers Data Set, Accessed from here.
 
