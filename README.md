@@ -1,7 +1,7 @@
 # Instacart Basket Analysis
 
 # Project Overview
-A demo project on Jupyther Notebook in order to clean data, join tables, analyze and create visualizations from publicly available data from Instacart. 
+A demo project on Jupyter Notebook in order to clean data, join tables, analyze and create visualizations from publicly available data from Instacart. 
 
 # Context
 Instacart is an online grocery store accessed through a mobile app. Although they have a strong sales track record, they are eager to delve deeper into their sales patterns and uncover more insights.
